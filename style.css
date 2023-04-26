@@ -102,3 +102,35 @@ main{
   align-items: center;
   width: fit-content;
 }
+
+header{
+  animation: Topdown 700ms;
+}
+
+main{
+  animation: Downtop 700ms 350ms backwards;
+}
+
+@keyframes Topdown{
+  0%{
+    opacity: 0;
+    transform: translateX(-15px);
+  }
+
+  100%{
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes Downtop{
+  0%{
+    opacity: 0;
+    transform: translatey(15px);
+  }
+
+  100%{
+    opacity: 1;
+    transform: translatey(0);
+  }
+}
