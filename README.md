@@ -29,6 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este é o quinto projeto acompanhando a plataforma de estudos Rocketseat, a qual damos continuidade ao conceito de responsividade ao design.
+Este é o quinto projeto acompanhando a plataforma de estudos Rocketseat, a qual damos continuidade ao conceito de responsividade ao design, acrescentando elementos de interatividade com CSS.
 
 - [Acesse o projeto finalizado, online.](https://isisgoncalves.github.io/Responsive_web/)
